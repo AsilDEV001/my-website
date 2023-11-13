@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Bukhara",
+			"country": {
+				"code": "UZ",
+				"name": "Uzbekistan"
+			},
+			"subdivision": {
+				"code": "BU",
+				"name": "Bukhara"
+			},
+			"timezone": "Asia/Samarkand",
+			"latitude": 39.7686,
+			"longitude": 64.4258
+		},
+		"timestamp": 1699893323350
+	}
+}
